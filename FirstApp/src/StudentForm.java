@@ -7,7 +7,7 @@ import javax.servlet.http.*;
 // Extend HttpServlet class
 public class StudentForm extends HttpServlet {
 
-	//private String message;
+	
 	private Student student;
 	ArrayList<Student> store;
 
